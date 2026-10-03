@@ -1,6 +1,4 @@
 # Research artifacts and secrets
-.env
-.env.*
 !.env.example
 *.key
 *.pem
@@ -21,3 +19,5 @@ hunt/
 *.pcap
 *.sqlite
 *.db
+config.bat
+node_modules
